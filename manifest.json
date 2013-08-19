@@ -1,0 +1,10 @@
+{
+  "name": "polymer simple",
+  "description": "polymer simple.",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
